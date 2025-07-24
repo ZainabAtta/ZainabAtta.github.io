@@ -1,4 +1,4 @@
-# Raiyan Bin Sarwar
+# Zainab Atta
 Welcome to my personal portfolio! I’m a cand. scient. graduate in Data Science specializing in healthdata
 
 ## About Me
